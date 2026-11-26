@@ -1434,9 +1434,9 @@ export function App() {
                     Selamat Datang di Website Warung Jajanan Ghilbra😊
                   </h1>
                   <p className="hero-lead">
-                    Silahkan di order seblak, sosis bakar, kentang goreng,
-                    otak-otak goreng, dan minuman segar. Klik pesan pada menu
-                    pilihan Anda untuk langsung terhubung ke WhatsApp kami.
+                    Silahkan di order seblak, sostel mini, sosis bakar, kentang
+                    goreng, otak-otak goreng, dan minuman segar. Klik pesan pada
+                    menu pilihan Anda untuk langsung terhubung ke WhatsApp kami.
                   </p>
                   <div className="hero-actions">
                     <a className="btn-primary" href="#menu">
