@@ -1453,7 +1453,7 @@ export function App() {
                   </div>
                   <p className="hero-note">
                     Catatan: Jika ingin mengatur level pedas kuah seblak atau
-                    saus olesan sosis bakar, tulis di catatan WhatsApp saat
+                    saus olesan sate-satean, tulis di catatan WhatsApp saat
                     memesan.
                   </p>
                 </div>
