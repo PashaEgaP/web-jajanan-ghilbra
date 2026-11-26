@@ -1,10 +1,24 @@
-# Internal audit/review documents (not published to the repo)
-docs/
-issue/
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
-# Python bytecode, written whenever the contrast checker runs
-__pycache__/
+node_modules
+dist
+dist-ssr
+*.local
 
-# OS noise
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
 .DS_Store
-Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

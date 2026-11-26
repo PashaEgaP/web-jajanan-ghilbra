@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" aria-label="Placeholder foto produk Kentang Goreng">
+  <rect width="480" height="360" fill="#F2E9DC"/>
+  <rect x="14" y="14" width="452" height="332" rx="6" fill="#FAF6F0" stroke="#7D6D5E" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <rect x="188" y="96" width="16" height="72" rx="3" fill="#B84014" stroke="#1E1A17" stroke-width="2.5"/>
+  <rect x="214" y="84" width="16" height="84" rx="3" fill="#F2E9DC" stroke="#1E1A17" stroke-width="2.5"/>
+  <rect x="240" y="92" width="16" height="76" rx="3" fill="#B84014" stroke="#1E1A17" stroke-width="2.5"/>
+  <rect x="266" y="102" width="16" height="66" rx="3" fill="#F2E9DC" stroke="#1E1A17" stroke-width="2.5"/>
+  <path d="M174 156h132l-16 86H190l-16-86Z" fill="#1E1A17"/>
+  <text x="240" y="294" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#1E1A17">[FOTO PRODUK: KENTANG GORENG]</text>
+  <text x="240" y="318" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#574D44">Ganti dengan foto asli menu</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" aria-label="Placeholder foto produk Otak-Otak Goreng">
+  <rect width="480" height="360" fill="#F2E9DC"/>
+  <rect x="14" y="14" width="452" height="332" rx="6" fill="#FAF6F0" stroke="#7D6D5E" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <ellipse cx="240" cy="212" rx="108" ry="30" fill="#F2E9DC" stroke="#1E1A17" stroke-width="3"/>
+  <rect x="168" y="136" width="104" height="26" rx="13" transform="rotate(-12 220 149)" fill="#FAF6F0" stroke="#1E1A17" stroke-width="2.5"/>
+  <rect x="200" y="160" width="112" height="26" rx="13" transform="rotate(8 256 173)" fill="#FAF6F0" stroke="#1E1A17" stroke-width="2.5"/>
+  <circle cx="300" cy="204" r="18" fill="#B84014" stroke="#1E1A17" stroke-width="2.5"/>
+  <text x="240" y="294" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#1E1A17">[FOTO PRODUK: OTAK-OTAK]</text>
+  <text x="240" y="318" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#574D44">Ganti dengan foto asli menu</text>
+</svg>

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "seblak-original",
+    "name": "Seblak Original Rumahan",
+    "category": "Seblak",
+    "price": 12000,
+    "priceNote": "Harga 1 porsi",
+    "description": "Kerupuk basah dimasak kuah kencur hangat bersama telur, sawi hijau, kwetiau, dan pilihan level pedas 1 sampai 5.",
+    "image": "/images/seblak-original.jpg",
+    "imageAlt": "Placeholder foto menu Seblak Original Rumahan Jajanan Ghilbra",
+    "featured": true
+  },
+  {
+    "id": "seblak-komplit",
+    "name": "Seblak Komplit Bakso, Sosis, & Ekstra Telur",
+    "category": "Seblak",
+    "price": 15000,
+    "priceNote": "Harga 1 porsi",
+    "description": "Porsi lebih kenyang dengan tambahan bakso sapi, sosis iris, ekstra telur, dan kuah rempah kencur.",
+    "image": "/images/seblak-komplit.jpg",
+    "imageAlt": "Placeholder foto menu Seblak Komplit Bakso, Sosis, & Ekstra Telur Jajanan Ghilbra ",
+    "featured": false
+  },
+  {
+    "id": "sosis-bakar-jumbo",
+    "name": "Sosis Bakar Sedang",
+    "category": "Sosis Bakar",
+    "price": 5000,
+    "priceNote": "Harga 1 pcs",
+    "description": "Sosis daging ukuran sedang dibakar di atas teflon dengan olesan mentega, kecap manis, mayones, dan saus sambal.",
+    "image": "/images/sosis-bakar.jpg",
+    "imageAlt": "Placeholder foto menu Sosis Bakar Sedang Jajanan Ghilbra",
+    "featured": false
+  },
+  {
+    "id": "sosis-bakar-kecil",
+    "name": "Sosis Bakar Kecil",
+    "category": "Sosis Bakar",
+    "price": 2000,
+    "priceNote": "Harga 1 pcs",
+    "description": "Sosis bakar ukuran kecil, cocok untuk camilan santai dengan pilihan saus olesan kecap manis, mayones, atau pedas.",
+    "image": "/images/sosis-bakar-kecil.jpg",
+    "imageAlt": "Placeholder foto menu Sosis Bakar Kecil Jajanan Ghilbra",
+    "featured": false
+  },
+  {
+    "id": "sostel-mini",
+    "name": "Sostel Mini (Sosis Telur Mini)",
+    "category": "Sostel",
+    "price": 2000,
+    "priceNote": "Harga 1 pcs",
+    "description": "Sostel ukuran kecil, cocok untuk camilan santai dengan pilihan saus olesan kecap manis, mayones, atau pedas.",
+    "image": "/images/sostel-mini.jpg",
+    "imageAlt": "Placeholder foto menu Sostel Mini Jajanan Ghilbra",
+    "featured": false
+  },
+  {
+    "id": "kentang-goreng",
+    "name": "Kentang Goreng Krispi Bumbu Gurih",
+    "category": "Kentang Goreng",
+    "price": 5000,
+    "priceNote": "Harga 1 porsi",
+    "description": "Potongan kentang goreng renyah di luar dan lembut di dalam, disajikan hangat dengan saus sambal dan tomat.",
+    "image": "/images/kentang-goreng.jpg",
+    "imageAlt": "Placeholder foto menu Kentang Goreng Krispi Jajanan Ghilbra",
+    "featured": false
+  },
+  {
+    "id": "otak-otak-goreng",
+    "name": "Otak-Otak Goreng",
+    "category": "Otak-Otak Goreng",
+    "price": 5000,
+    "priceNote": "Harga 1 porsi",
+    "description": "Otak-otak ikan goreng garing per porsi, lengkap dengan cocolan saus pedas atau mayones.",
+    "image": "/images/otak-otak-goreng.jpg",
+    "imageAlt": "Placeholder foto menu Otak-Otak Goreng Jajanan Ghilbra",
+    "featured": false
+  },
+  {
+    "id": "es-teh-rumahan",
+    "name": "Es Teh Manis Rumahan",
+    "category": "Minuman",
+    "price": 5000,
+    "priceNote": "Harga 1 cup",
+    "description": "Seduhan teh melati dengan gula pasir asli dan es batu penuh untuk menemani menu pedas.",
+    "image": "/images/es-teh-manis.jpg",
+    "imageAlt": "Placeholder foto menu Es Teh Manis Rumahan Ghilbra Snacks",
+    "featured": false
+  },
+  {
+    "id": "es-beng-beng",
+    "name": "Es Beng Beng Cokelat",
+    "category": "Minuman",
+    "price": 6000,
+    "priceNote": "Harga 1 cup",
+    "description": "Es beng beng cokelat dingin, pas untuk menyegarkan tenggorokan.",
+    "image": "/images/es-beng-beng-cokelat.jpg",
+    "imageAlt": "Placeholder foto menu Es Beng Beng Cokelat Jajanan Ghilbra",
+    "featured": false
+  },
+  {
+    "id": "es-kopi-good-day",
+    "name": "Es Kopi Good Day",
+    "category": "Minuman",
+    "price": 5000,
+    "priceNote": "Harga 1 cup",
+    "description": "Es kopi good day dingin, cocok untuk bersantai dan pas untuk menyegarkan tenggorokan.",
+    "image": "/images/es-kopi-good-day.jpg",
+    "imageAlt": "Placeholder foto menu Es Kopi Good Day Jajanan Ghilbra",
+    "featured": false
+  },
+  {
+    "id": "es-pop-ice",
+    "name": "Es Pop Ice",
+    "category": "Minuman",
+    "price": 3000,
+    "priceNote": "Harga 1 cup",
+    "description": "Es pop ice dingin, pas untuk menyegarkan tenggorokan. Tersedia semua varian (Tulis di catatan WhatsApp untuk permintaan varian / rasa)",
+    "image": "/images/es-pop-ice-1.jpg",
+    "imageAlt": "Placeholder foto menu Es Pop Ice Jajanan Ghilbra",
+    "featured": false
+  }
+]
