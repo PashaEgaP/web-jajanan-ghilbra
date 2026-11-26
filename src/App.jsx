@@ -20,7 +20,7 @@ const STORE_ADVANTAGES = [
     num: "01",
     title: "Dimasak hangat saat pesanan masuk",
     detail:
-      "Seblak, sosis bakar, sostel, kentang, dan otak-otak diproses setelah konfirmasi pesanan agar tekstur dan suhunya tetap terjaga.",
+      "Seblak, sosis bakar, sostel mini, kentang, dan otak-otak diproses setelah konfirmasi pesanan agar tekstur dan suhunya tetap terjaga.",
   },
   {
     num: "02",
@@ -62,7 +62,7 @@ const INITIAL_REVIEWS = [
 ];
 
 const REVIEWS_STORAGE_KEY = "jajanan_ghilbra_reviews_v1";
-const OWNER_PIN = "12345"; // Ganti dengan PIN pribadi Anda
+const OWNER_PIN = "1234"; // Ganti dengan PIN pribadi Anda
 
 function loadInitialReviews() {
   try {
@@ -1394,11 +1394,16 @@ export function App() {
                     className="mobile-nav-link"
                     onClick={openCartPage}
                     style={{
+                      display: "block",
                       width: "100%",
                       textAlign: "left",
                       background: "transparent",
                       border: "none",
                       cursor: "pointer",
+                      fontSize: "1.05rem",
+                      fontWeight: activePage === "cart" ? 700 : 500,
+                      lineHeight: 1.5,
+                      color: "inherit",
                     }}
                   >
                     Keranjang{cartCount > 0 ? ` (${cartCount})` : ""}
@@ -1429,9 +1434,9 @@ export function App() {
                     Selamat Datang di Website Warung Jajanan Ghilbra😊
                   </h1>
                   <p className="hero-lead">
-                    Silahkan di order seblak, sosis bakar, sostel mini, kentang
-                    goreng, otak-otak goreng, dan minuman segar. Klik pesan pada
-                    menu pilihan Anda untuk langsung terhubung ke WhatsApp kami.
+                    Silahkan di order seblak, sosis bakar, kentang goreng,
+                    otak-otak goreng, dan minuman segar. Klik pesan pada menu
+                    pilihan Anda untuk langsung terhubung ke WhatsApp kami.
                   </p>
                   <div className="hero-actions">
                     <a className="btn-primary" href="#menu">
@@ -1718,8 +1723,8 @@ export function App() {
             <div className="footer-brand-col">
               <h2 className="footer-title">Jajanan Ghilbra</h2>
               <p className="footer-muted">
-                Seblak, Sosis Bakar, Sotel, Kentang Goreng, Otak-Otak Goreng,
-                dan Minuman Dingin.
+                Seblak, Sosis Bakar, Sotel Mini, Kentang Goreng, Otak-Otak
+                Goreng, dan Minuman Dingin.
               </p>
               <p className="footer-muted">
                 ALAMAT TOKO: Komplek Mutiara Garuda Blok C5 No.24
